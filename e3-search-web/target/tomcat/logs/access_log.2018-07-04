@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:29:17 +0800] "GET /search.html?keyword=%E7%94%B5%E8%A7%86%E6%9C%BA HTTP/1.1" 200 85839 http-bio-8085-exec-6 212
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:29:17 +0800] "GET /js/e3mall.js HTTP/1.1" 304 - http-bio-8085-exec-10 30
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:31:00 +0800] "GET /search.html?keyword=%E7%94%B5%E8%A7%86%E6%9C%BA HTTP/1.1" 200 85839 http-bio-8085-exec-2 53
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:31:15 +0800] "GET /search.html?keyword=%E7%94%B5%E8%A7%86%E6%9C%BA HTTP/1.1" 200 85839 http-bio-8085-exec-7 65
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:34:32 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-3 28
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:37:25 +0800] "GET /search.html?keyword=%E7%94%B5%E8%A7%86%E6%9C%BA HTTP/1.1" 200 85839 http-bio-8085-exec-4 45
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:37:31 +0800] "GET /search.html?keyword=%E7%94%B5%E8%A7%86%E6%9C%BA HTTP/1.1" 200 85839 http-bio-8085-exec-4 32
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:37:45 +0800] "GET /search.html?keyword=%E7%94%B5%E8%A7%86 HTTP/1.1" 200 85825 http-bio-8085-exec-4 42
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:39:57 +0800] "GET /search.html?keyword=%E5%A5%B3%E5%A3%AB HTTP/1.1" 200 22382 http-bio-8085-exec-10 17
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:12:45:10 +0800] "GET /search.html?keyword=%E7%94%B5%E8%A7%86%E6%9C%BA HTTP/1.1" 200 85860 http-bio-8085-exec-1 951
